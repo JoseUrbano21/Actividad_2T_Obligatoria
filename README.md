@@ -16,4 +16,14 @@
 ## 📸 Vista previa
 Ejecución en consola del servidor y un cliente conectándose:
 
-<img src="screenshot_server.png" width="400">   <img src="screenshot_client.png" width="400">
+Servidor estableciendo conexión
+![Server_conect](Conexion_servidor.png)
+
+Cliente estableciendo conexión
+![Client_conect](Conexion_cliente.png)
+
+Servidor escuchando la petición del cliente y enviando la respuesta
+![Server_listening](Servidor_escuchando.png)
+
+Cliente enviando la petición y recibiendo la respuesta del servidor
+![Client_listening](Cliente_enviando_recibiendo.png)
